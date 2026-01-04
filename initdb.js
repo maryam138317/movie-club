@@ -1,5 +1,4 @@
 const sql = require('better-sqlite3')
-const { Sumana } = require('next/font/google')
 const db = sql('movies.db')
 
 
